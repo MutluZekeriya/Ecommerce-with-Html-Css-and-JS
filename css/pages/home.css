@@ -1,0 +1,18 @@
+.section-title {
+    text-align: center;
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.categories {
+    padding: 40px 0;
+}
+
+.categories .category-list {
+    display: flex;
+    gap: 32px;
+    margin-top: 32px;
+}
